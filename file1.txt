@@ -1,4 +1,7 @@
 File in master branch
+<<<<<<< HEAD
 COmmit m1
 commit m2
+=======
+>>>>>>> b203412... commit f1
 commit f1
